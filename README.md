@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **premalathaganeshalingam@gmail.com,**
+- 📫 How to reach me **premalathaganeshalingam@gmail.com**
 
 - ⚡ Fun fact **Meme addicted**
 
