@@ -19,30 +19,63 @@
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
+<h3>🛠️ Languages & Tools</h3>
+
+#### 💻 Programming Languages
 <p align="left">
-  <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40" alt="Angular"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></a>
-  <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt=".NET"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="Figma"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="SQL Server"/></a>
-  <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML"/></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</p>
+
+#### 🌐 Frontend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+</p>
+
+#### 🖥️ Backend Development
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+</p>
+
+#### ⚙️ Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Xampp_logo.svg/512px-Xampp_logo.svg.png" alt="XAMPP" width="40" height="40"/>
+</p>
+
+#### 🖌️ UI/UX Design
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</p>
+
+#### 🧰 IDEs & Editors
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/netbeans-ide.svg" alt="NetBeans" width="40" height="40"/>
+  <img src="https://spring.io/img/icon-spring-badge.svg" alt="Spring Tool Suite" width="40" height="40"/>
+  <img src="https://code.visualstudio.com/assets/favicon.ico" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
 
-<h3>📊 GitHub Stats:</h3>
+<h3>📊 GitHub Stats</h3>
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gajanika&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-
 <p>
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gajanika&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
@@ -57,48 +90,38 @@ I’m a passionate and dedicated Full Stack Software Developer with a solid foun
 
 ## 🌟 Proud Achievement
 
-**🏆 School Time Table Project**
-- Selected at **Sahasak Nimavum 2022**, the National Inventions and Innovations Competition.
-- Organized by the **Sri Lanka Inventors Commission** under the Ministry of Education.
-- This project was built to make school timetabling more efficient and manageable.
+**🏆 School Time Table Project**  
+Recognized at **Sahasak Nimavum 2022**, the National Inventions and Innovations Competition, organized by the **Sri Lanka Inventors Commission** under the Ministry of Education.  
+> This innovative solution was designed to improve the efficiency of school timetable management.
 
 ---
 
-## 💡 Volunteering Experience
+## 🤝 Volunteering Experience
 
-**📘 ICT and Accounting Tutor (May 2023 – Mar 2024)**
-- Helped A/L students strengthen their knowledge in ICT and Accounting.
+**📘 ICT and Accounting Tutor (May 2023 – Mar 2024)**  
+Helped A/L students strengthen their understanding of ICT and Accounting through practical application and guidance.
 
-**🛍️ Online Shopping Assistant**
-- Supported friends and community members with online purchases using platforms like Temu.
-- Gained experience in research, coordination, and customer support.
+**🛍️ Online Shopping Assistant**  
+Assisted community members with online purchases via platforms like Temu. This enhanced my skills in digital coordination, research, and time management.
 
 ---
 
 ## 🎓 Education & Skills
 
-**Diploma in Software Programming**  
-_Unicom TIC – Full Stack Development_
+- 🎓 **Diploma in Software Programming** – *Unicom TIC*  
+  Covered: HTML, CSS, JS, Bootstrap, TypeScript, Angular, C#, .NET Web API, SQL Server, Figma
 
-**Currently Studying:**
-- **Full Stack Development** – Jaffna Technical College  
-  Tech stack includes:
-  - Java ☕
-  - Spring Tool Suite 4 🌱
-  - MongoDB 🗄️
-  - Apache NetBeans IDE 25 💡
-  - MySQL 🌐
-  - XAMPP 🌍
-  - Postman 🛠️
+- 🏫 **Jaffna Technical College** – *Full Stack Software Development*  
+  Learning: Java, XAMPP, Apache NetBeans, MongoDB, Spring Tool Suite 4, Postman, MySQL
 
-- **Bachelor of Information Technology** – University of Moratuwa  
-  Focus: Python 🐍, Software Engineering Principles
+- 📚 **Bachelor of Information Technology** – *University of Moratuwa*  
+  Focus: Python, Databases, Web Technologies
 
 ---
 
 ## 🎯 Career Goal
 
-To continuously grow as a Full Stack Developer 👨‍💻 by contributing to impactful projects, learning cutting-edge technologies, and becoming a valuable professional in the software industry.
+To continuously grow as a Full Stack Developer 👨‍💻, contribute to real-world projects, and become a versatile professional who adds value through innovation and collaboration.
 
 ---
 
