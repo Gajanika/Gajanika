@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gajanika</h1>
 <h3 align="center">Aspiring Full-Stack Developer 🚀</h3>
 
-- 🌱 I’m currently learning **Java**, **Spring Boot**, and **MongoDB**
-- 📫 Reach me at: **premalathaganeshalingam@gmail.com**
+- 🌱 I’m currently learning **Java**, **Spring Boot**, and **MongoDB**  
+- 📫 Reach me at: **premalathaganeshalingam@gmail.com**  
 - ⚡ Fun fact: **I’m addicted to memes 😄**
 
 ---
@@ -42,6 +42,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
+  <img src="https://spring.io/images/icon-spring-boot.svg" alt="Spring Boot" width="40" height="40" title="Spring Boot"/>
 </p>
 
 #### 🗄️ Databases
@@ -55,7 +56,7 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Xampp_logo.svg/512px-Xampp_logo.svg.png" alt="XAMPP" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Xampp_logo.svg/512px-Xampp_logo.svg.png" alt="XAMPP" width="40" height="40" title="XAMPP"/>
 </p>
 
 #### 🖌️ UI/UX Design
@@ -65,9 +66,9 @@
 
 #### 🧰 IDEs & Editors
 <p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/netbeans-ide.svg" alt="NetBeans" width="40" height="40"/>
-  <img src="https://spring.io/img/icon-spring-badge.svg" alt="Spring Tool Suite" width="40" height="40"/>
-  <img src="https://code.visualstudio.com/assets/favicon.ico" alt="VS Code" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/netbeans-ide.svg" alt="NetBeans" width="40" height="40" title="Apache NetBeans"/>
+  <img src="https://spring.io/img/icon-spring-badge.svg" alt="Spring Tool Suite" width="40" height="40" title="Spring Tool Suite 4"/>
+  <img src="https://code.visualstudio.com/assets/favicon.ico" alt="VS Code" width="40" height="40" title="Visual Studio Code"/>
 </p>
 
 ---
@@ -125,5 +126,4 @@ To continuously grow as a Full Stack Developer 👨‍💻, contribute to real-w
 
 ---
 
-> ✨ _“Gajanika is a special repository — its README.md will appear on your GitHub profile!”_  
-> 💖 Thanks for visiting!
+
